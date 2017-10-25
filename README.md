@@ -10,7 +10,7 @@ Unity is not officially supported by Yulio. This export script was created to as
 
 ### Usage
 
-1. Import the .unitypackage to your Unity Project
+1. Import the .unitypackage to your Unity Project (Download from the [Releases](https://github.com/PixelTours/Unity-YulioCapture/releases) page)
 2. Select Tools > Export Yulio Cubemaps
 3. Select which camera you would like to render from.
 
