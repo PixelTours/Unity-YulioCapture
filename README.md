@@ -6,7 +6,7 @@ Yulio lets you quickly upload, share, and present designs in virtual reality usi
 
 See [Yulio](http://www.yulio.com) for more information or to set up a free account. 
 
-**Unity is not officially supported by Yulio. This export script was created to assist in creating rapid prototype environments in VR to aid our user research and prototyping activities.**
+Unity is not officially supported by Yulio. This export script was created to assist in creating rapid prototype environments in VR to aid our user research and prototyping activities.
 
 ### Usage
 
@@ -23,7 +23,7 @@ See [Yulio](http://www.yulio.com) for more information or to set up a free accou
 
 ### Warnings
 - Some post-processing effects like Bloom will not render correctly due to how Unity captures cubemaps. 
-- UI Canvas will not be captured at this time.
+- UI Canvases will not be captured.
 
 ### License
 [MIT](https://github.com/PixelTours/Unity-YulioCapture/blob/master/LICENSE)
