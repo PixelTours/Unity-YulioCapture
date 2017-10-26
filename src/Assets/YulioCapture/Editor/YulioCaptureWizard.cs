@@ -9,7 +9,7 @@ namespace PTLabs
 	public enum ImageFormat
 	{
 		PNG,
-		JPEG
+		JPG
 	}
 
     public class YulioCaptureWizard : ScriptableWizard
@@ -67,7 +67,7 @@ namespace PTLabs
                 case ImageFormat.PNG:
                     File.WriteAllBytes(fullPath,textureOutput.EncodeToPNG());
                     break;
-                case ImageFormat.JPEG:
+                case ImageFormat.JPG:
                     File.WriteAllBytes(fullPath, textureOutput.EncodeToJPG());
                     break;
                 default:
